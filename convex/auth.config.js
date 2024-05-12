@@ -1,7 +1,7 @@
 export default {
   providers: [
     {
-      domain: "https://saved-gelding-83.clerk.accounts.dev",
+      domain: "https://refined-starfish-13.clerk.accounts.dev",
       applicationID: "convex",
     },
   ]

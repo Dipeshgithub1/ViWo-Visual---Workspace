@@ -3,7 +3,9 @@ import { createRoomContext, createLiveblocksContext } from "@liveblocks/react";
 
 import {Layer, Color} from "./types/canvas"
   
+
 const client = createClient({
+ //  publicApikey : "pk_dev_gPdK_Q8Dv41A6AVKddGT2tVMIVyy5mHzOn4khh-i-cOoJZAvJse-HxMs0eNF9IgM",
   throttle: 16,
   authEndpoint: "/api/liveblocks-auth",
   async resolveUsers({ userIds }) {
