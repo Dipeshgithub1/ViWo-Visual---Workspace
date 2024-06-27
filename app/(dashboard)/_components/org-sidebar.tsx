@@ -33,7 +33,7 @@ export const OrgSidebar = () => {
             "font-semibold text-2xl",
             font.className,
           )}>
-            Board
+            Vi-Wo
           </span>
         </div>
       </Link>
