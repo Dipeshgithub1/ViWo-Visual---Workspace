@@ -21,3 +21,15 @@ Features:
 - ⭐️ Favoriting functionality
 - 🌐 Next.js 14 framework
 - 💅 TailwindCSS & ShadcnUI styling
+
+Node.js: Version 18.x or higher 
+• Package Manager: npm 
+• Next.js: 14 or Latest stable version 
+• Convex: For backend logic and database interactions 
+• Clerk: For authentication and user management 
+• TailwindCSS: For styling 
+• ShadCN UI: For additional UI components 
+• Liveblocks: For real-time collaboration features 
+2. APIs and Services 
+• Authentication: Clerk API 
+• Real-Time Collaboration: Liveblocks API 
