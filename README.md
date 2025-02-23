@@ -22,7 +22,7 @@ Not just a whiteboarding platform, It’s an online workspace for innovation.
 - 🌐 Next.js 14 framework
 - 💅 TailwindCSS & ShadcnUI styling
 
-Node.js: Version 18.x or higher 
+## Node.js: Version 18.x or higher 
 • Package Manager: npm 
 • Next.js: 14 or Latest stable version 
 • Convex: For backend logic and database interactions 
