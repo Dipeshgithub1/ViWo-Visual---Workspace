@@ -7,7 +7,7 @@ time, no matter their location or timezone.
 Not just a whiteboarding platform, It’s an online workspace for innovation.
 
 
- # Features:
+ ## Features:
 
 - 🛠️ Whiteboard from scratch
 - 🧰 Toolbar with Text, Shapes, Sticky Notes & Pencil
